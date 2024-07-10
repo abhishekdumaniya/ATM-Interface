@@ -39,11 +39,12 @@ This is a simple console-based ATM application written in Java. The application 
 3. Compile the Java files:
     ```bash
     javac src/com/app/*.java
+    javac Main.java
     ```
 
 4. Run the application:
     ```bash
-    java -cp src com.app.Main
+    java -cp src Main
     ```
 
 ## Usage
